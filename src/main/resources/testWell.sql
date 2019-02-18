@@ -1,0 +1,3 @@
+INSERT INTO WELL VALUES (1, '55', '100', 'inner');
+INSERT INTO WELL VALUES (2, '77', '108', 'north');
+INSERT INTO WELL VALUES (5, '53', '132', 'east');
